@@ -1,7 +1,3 @@
-Here’s a professional and beginner-friendly `README.md` content for your MERN stack note-taking app, based on the frontend and backend guides we've created:
-
----
-
 # 📝 MERN Stack Note-Taking App
 
 A full-stack note-taking application built using the **MERN Stack** – MongoDB, Express.js, React, and Node.js. This project allows users to create, read, update, and delete notes via a clean, responsive interface and RESTful API.
