@@ -178,12 +178,6 @@ VITE_API_URL=http://localhost:5000/api
 
 ---
 
-## 📸 Screenshots
-
-> *(Optional: Add screenshots of your UI here)*
-
----
-
 ## 🙌 Acknowledgments
 
 This app was developed by following a hands-on MERN stack tutorial and extended with best practices, clean architecture, and reusable code patterns.
