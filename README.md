@@ -81,7 +81,7 @@ frontend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/mern-notes-app.git
+git clone (https://github.com/jasonberylmini/thinkboard-mern-mini-project.git)
 cd mern-notes-app
 ```
 
